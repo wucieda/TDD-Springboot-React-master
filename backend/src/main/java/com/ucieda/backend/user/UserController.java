@@ -1,6 +1,6 @@
-package com.ucieda.hoaxify.user;
+package com.ucieda.backend.user;
 
-import com.ucieda.hoaxify.shared.GenericResponse;
+import com.ucieda.backend.shared.GenericResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

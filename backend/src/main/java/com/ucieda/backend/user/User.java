@@ -1,4 +1,4 @@
-package com.ucieda.hoaxify.user;
+package com.ucieda.backend.user;
 
 import lombok.Data;
 

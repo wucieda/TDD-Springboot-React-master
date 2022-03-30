@@ -1,4 +1,4 @@
-package com.ucieda.hoaxify.user;
+package com.ucieda.backend.user;
 
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;

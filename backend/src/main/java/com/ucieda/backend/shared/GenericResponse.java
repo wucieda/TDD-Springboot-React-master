@@ -1,4 +1,4 @@
-package com.ucieda.hoaxify.shared;
+package com.ucieda.backend.shared;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

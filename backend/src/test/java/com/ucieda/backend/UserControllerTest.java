@@ -1,8 +1,8 @@
-package com.ucieda.hoaxify;
+package com.ucieda.backend;
 
-import com.ucieda.hoaxify.shared.GenericResponse;
-import com.ucieda.hoaxify.user.User;
-import com.ucieda.hoaxify.user.UserRepository;
+import com.ucieda.backend.shared.GenericResponse;
+import com.ucieda.backend.user.User;
+import com.ucieda.backend.user.UserRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
